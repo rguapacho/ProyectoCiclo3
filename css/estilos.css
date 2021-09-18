@@ -44,3 +44,12 @@ div#formRegistro {
     background-color: green;
     border: 2px solid green;
 }
+
+#Registerbutton {
+    Width: 50px;
+    height: 30px;
+}
+
+#Registerbutton:hover {
+    background-color: 309acb;
+}
